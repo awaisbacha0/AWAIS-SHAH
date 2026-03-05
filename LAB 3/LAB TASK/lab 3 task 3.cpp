@@ -1,4 +1,4 @@
-#include <iostream>  // name abbas fazal etea id 5120321
+#include <iostream>  // name M Awais Shah etea id 5120305
 using namespace std;
 
 int main()
@@ -13,4 +13,5 @@ int main()
 	cout << "Number is negative" << endl;
     return 0;
 }
+
 
