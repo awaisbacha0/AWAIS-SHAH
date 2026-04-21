@@ -1,5 +1,5 @@
-                // Name : Zaid rauf
-                // Etea ID :01477/740
+                // Name : M awais shah
+                // Etea ID :5120305/ 0727
                 // section : A 
                 // departement : ELECTRICAL POWER
 
